@@ -1,0 +1,50 @@
+body {
+    background-image: url(../images/_1_670px_30op.jpg);
+    text-align: center;
+    color: #ffffff;
+    font-family: Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+    background-size: cover;
+    background-color: #000000;
+}
+
+h1 {
+	font-size: 40px;
+	line-height: 40%;
+}
+
+h2 {
+    font-size: 14px;
+    font-style: oblique;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 300;
+    color: #ffff33;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+li { 
+    padding-left: 16px; 
+}
+
+li:before {
+    content: "\2022";
+    font-weight: 900;
+    padding-right: 8px;
+    color: #ffff33;
+}
+
+a {
+color: #ffff33;
+}
+
+a:hover {
+color: #B0B0B0;
+}
